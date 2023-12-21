@@ -1,0 +1,14 @@
+<html>
+<head>
+<link href="style1.css" media=all rel="stylesheet"/>
+<link rel="stylesheet" type="text/css" href="style1.css" /> 
+</head>
+<body>
+
+<p class="t1">
+
+Le premier titre
+</p>
+
+</body>
+</html>
